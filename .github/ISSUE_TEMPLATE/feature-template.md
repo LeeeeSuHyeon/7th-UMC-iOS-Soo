@@ -1,3 +1,11 @@
+---
+name: Feature Request
+about: 새로운 기능 추가를 제안합니다.
+title: "[Feature] "
+labels: enhancement
+assignees: 
+---
+
 ## Issue : ✅ Feature
 작업하고자 하는 기능을 입력해주세요.
 
