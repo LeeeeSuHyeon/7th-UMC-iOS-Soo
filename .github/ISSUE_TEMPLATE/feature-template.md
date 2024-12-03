@@ -1,7 +1,7 @@
 ---
 name: Feature Request
 about: 새로운 기능 추가를 제안합니다.
-title: "[Feature] "
+title: "[✅ Feature] "
 labels: enhancement
 assignees: 
 ---
